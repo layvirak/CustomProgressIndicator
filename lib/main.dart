@@ -22,7 +22,6 @@ class Test extends StatelessWidget {
       body: Container(
         width: double.infinity,
         height: double.infinity,
-        //
         child: CustomProgressIndicator(
           percent: 50,
           backColor: Colors.deepOrange,
